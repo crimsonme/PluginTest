@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{31186F5E-40C4-E66D-1346-AFBA8A58619D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PluginTest_425",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
